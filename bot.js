@@ -25,7 +25,7 @@ client.on('message', msg => {
 
 client.on('ready', () => {
     console.log('Bot Is Ready Now !');
-    client.user.setGame(`Epic Clan`,"http://twitch.tv/xkilleryt")
+    client.user.setGame(`By:iixlin`,"http://twitch.tv/xkilleryt")
     });
 
 
